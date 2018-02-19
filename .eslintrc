@@ -1,0 +1,10 @@
+{
+  "extends": "vacuumlabs",
+  "rules": {
+    "arrow-parens": [2, "as-needed"]
+  },
+  "env": {
+    "browser": true,
+    "node": true
+  }
+}

@@ -4,5 +4,16 @@
   "main": "index.js",
   "repository": "git@github.com:mpinter/react-2018.git",
   "author": "Martin Pinter <martin.pinter@vacuumlabs.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.18.0",
+    "eslint-config-vacuumlabs": "^1.5.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-react": "^7.6.1"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
 }
