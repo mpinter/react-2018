@@ -1,0 +1,8 @@
+{
+  "name": "react-2018",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mpinter/react-2018.git",
+  "author": "Martin Pinter <martin.pinter@vacuumlabs.com>",
+  "license": "MIT"
+}
